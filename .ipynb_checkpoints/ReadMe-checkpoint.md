@@ -30,7 +30,7 @@ This project analyzes and predicts **loan default risk** using the German Credit
 ---
 
 ## 📊 Dataset  
-- **Name:** Credit Dataset  
+- **Name:** German Credit Dataset  
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)  
 
 | Property  | Details |  
