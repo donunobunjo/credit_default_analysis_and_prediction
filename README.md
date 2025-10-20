@@ -1,35 +1,58 @@
 📌 Credit Default Analysis and Prediction
+
 📖 Project Overview
+
 This project analyzes and predicts loan default risk using the Credit Dataset.
 
 Goals:
 
 🔎 Identify key financial and demographic risk factors for credit default
+
 🤖 Build predictive models to classify applicants as low risk or high risk
+
 📊 Provide insights to support better lending decisions
+
 GitHub
+
 🎯 Objectives
+
 Perform Exploratory Data Analysis (EDA)
+
 Clean & preprocess the dataset (missing values, duplicates, encoding)
+
 Engineer features (loan-to-income ratio, age groups, etc.)
+
 Train and evaluate multiple machine learning models
+
 Visualize and interpret the results
+
 🛠️ Tech Stack
+
 🐍 Python
+
 📊 Pandas / NumPy → Data wrangling
+
 🎨 Matplotlib / Seaborn → Visualization
+
 🤖 Scikit-learn → ML models & metrics
+
 📓 Jupyter Notebook → Analysis & reporting
+
 📊 Dataset
 Name: Credit Dataset
 Source: Credit Dataset
+
 🔍 Exploratory Data Analysis (EDA)
 Questions explored:
 
 👤 Does age influence default risk?
+
 💰 Are low savings/checking balances linked to higher default?
+
 🏠 Does housing status (own, rent, free) affect repayment?
+
 📈 How does loan amount vs. income affect creditworthiness?
+
 📌 Visualizations:
 
 Distribution plots (age, loan amount, duration)
